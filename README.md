@@ -1,4 +1,5 @@
 # pinterest-auto-pin
+- use Xampp, Wampserver, Appserv or Apache because php is a server language.
 - This file needs to be pinned to pinterest.
 - Image Url : example.com/image/img1.jpg
 ## information to use
